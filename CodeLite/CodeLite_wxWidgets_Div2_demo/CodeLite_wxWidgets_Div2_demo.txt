@@ -1,0 +1,1 @@
+./Debug/gui_codelite_wxwidgets_div2_demo-main_bitmaps.cpp.o ./Debug/main.cpp.o ./Debug/gui.cpp.o ./Debug/controls.cpp.o
